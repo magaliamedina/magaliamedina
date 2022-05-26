@@ -4,7 +4,7 @@ Full Stack Developer! :computer:
 
 
 Social
-Linkedin LinkedIn   GitHub GitHub
+Linkedin <a href="https://www.linkedin.com/magali-anabel-medina">LinkedIn</a>   GitHub GitHub
 <!--
 **magaliamedina/magaliamedina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
