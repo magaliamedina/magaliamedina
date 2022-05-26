@@ -3,7 +3,7 @@ I'm magaliamedina👋
 Full Stack Developer! :computer:
 
 
-##Social
+### Social
 <br>
 Linkedin <a href="https://www.linkedin.com/magali-anabel-medina" target="_blank">LinkedIn</a>   
 <!--
