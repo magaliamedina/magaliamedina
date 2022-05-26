@@ -7,8 +7,8 @@ Full Stack Developer! :computer:
 Linkedin <a href="https://ar.linkedin.com/in/magali-anabel-medina" target="_blank">LinkedIn</a>   
 
 ### Repositories
-App móvil Android con Java <a href="https://github.com/magaliamedina/GymUNNE" target="_blank">GymUNNE</a>  
-Portfolio web <a href="https://github.com/magaliamedina/misitioweb" target="_blank">Portfolio</a>
+<li> App móvil Android con Java <a href="https://github.com/magaliamedina/GymUNNE" target="_blank">GymUNNE</a>  </li>
+<li> Portfolio web <a href="https://github.com/magaliamedina/misitioweb" target="_blank">Portfolio</a> </li>
 
 <!--
 **magaliamedina/magaliamedina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
