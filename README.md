@@ -1,6 +1,6 @@
 ### Hi there 👋
-I'm Ramiro magaliamedina👋
-Full Stack Developer! ![image](https://user-images.githubusercontent.com/38531027/170505917-f132bb4a-1641-45c2-a888-5b74baa0369e.png)
+I'm magaliamedina👋
+Full Stack Developer! :computer:
 
 
 Social
