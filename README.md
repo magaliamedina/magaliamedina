@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm magaliamedina👋
-Full Stack Developer! :computer:
+Full Stack Developer! (.NET + Angular) :computer:
 
 
 ### Social
