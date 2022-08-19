@@ -8,7 +8,9 @@ Linkedin <a href="https://ar.linkedin.com/in/magali-anabel-medina" target="_blan
 
 ### Repositories
 <li> App móvil Android con Java <a href="https://github.com/magaliamedina/GymUNNE" target="_blank">GymUNNE</a>  </li>
-<li> Portfolio web <a href="https://github.com/magaliamedina/misitioweb" target="_blank">Portfolio</a> </li>
+<li> API para aceleración de Alkemy <a href="https://github.com/magaliamedina/DisneyAPI" target="_blank">Disney API</a> </li>
+<li> API realizado en Bootcamp <a href="https://github.com/magaliamedina/Petfy.API" target="_blank">Pet API</a> </li>
+
 
 <!--
 **magaliamedina/magaliamedina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
